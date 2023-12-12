@@ -1,5 +1,7 @@
 # GitHub Actions Fundamentals
 
+testing action auto run
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
