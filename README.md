@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-
+modifying with [skip ci]
 testing action auto run
 
 Repo for the `GitHub Actions Fundamentals` training.
